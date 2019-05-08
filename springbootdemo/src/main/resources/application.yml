@@ -34,7 +34,7 @@ swagger:
 
 
 
-# x�������ݿ�����.
+# x�������ݿ�����..
 #spring.jpa.database=mysql
 # �����Ƿ��ӡsql
 #spring.jpa.show-sql=true
